@@ -4,7 +4,7 @@ Major Festures-<br>
 1.GUI contains Progress Bar to show the percentage of downloading completed.<br>
 2.GUI has buttons allowing user to add,pause,resume,cancel, and to clear a download.
 
-Language Used : JAVA , the GUI has been made using swing.
+Language Used : JAVA ,GUI has been made using swing.
 
 ### This is the preview of the Download manager Application which can be used to download files
 
